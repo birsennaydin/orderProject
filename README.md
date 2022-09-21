@@ -38,9 +38,9 @@ The following features are provided by this project:
 - Api System
 - Payload Validation (app/Http/Requests Rules are written under app/Request)
 - Model
-- Service (app/Http/Services)
-- Interface (app/Http/Interfaces)
-- Repository (app/Http/Repositories)
+- Service (app/Providers)
+- Interface (app/Interfaces)
+- Repository (app/Repositories)
 - Trait (for Cache System)
 - Response (written but not used, code will be edited)
 
