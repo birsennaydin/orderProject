@@ -22,7 +22,7 @@ The following features are provided by this project:
 - Examine the document under 'app/Http/Documents' or 'https://documenter.getpostman.com/view/23414505/2s7Z7WqvHJ' the document at this address,
 - Create a user with 'php artisan tinker' from within the project,
 - Get Bearer token using this user's 'email' and 'password' and login endpoint,
-- Upgrade the service with 'php artisan serve',
+- Run the service with 'php artisan serve',
 - Now you can request any endpoint using Bearer token.
 
 ## Technologies
