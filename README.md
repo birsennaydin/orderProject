@@ -3,7 +3,7 @@
 
 The following features are provided by this project:
 
--User verification,
+- User verification,
 - Product listing,
 - Product creation,
 - Order listing,
